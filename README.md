@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Metrics](/github-metrics.svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwhh66)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwhh66)
