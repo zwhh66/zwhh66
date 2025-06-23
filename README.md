@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://metrics.lecoq.io/zwhh66?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwhh66)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwhh66)
